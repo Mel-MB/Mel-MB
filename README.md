@@ -2,7 +2,7 @@
   Hi there , I'm Mélanie <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
 </h1>
 
-<img align='right' src="https://github.com/Mel-MB/Mel-MB/img/working.gif" width="230">
+<img align='right' src="https://img.shields.io//img/working.gif" width="230">
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software Engineering student
 
