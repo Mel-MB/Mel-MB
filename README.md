@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hi there , I'm Mélanie MIRBEAU-BAUDIN
 </h1>
 <img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
@@ -13,7 +13,7 @@
 
 Logical problems junkie (learning through algorithms at codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro))
 
-## More about me
+### More about me
 ``java
 ``
 - 🎓 Software engineering student **looking for internship (35 weeks 👩‍💻)** remote &| west of France
