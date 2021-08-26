@@ -1,14 +1,15 @@
 <h1 align="center">
-  Hi there , I'm Mélanie <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+  Hi there , I'm Mélanie MIRBEAU-BAUDIN
 </h1>
+<img align='right' src="https://github.com/Mel-MB/Mel-MB/img/working.gif" width="230">
 
-<img align='right' src="https://img.shields.io//img/working.gif" width="230">
+[![Linkedin: Mélanie MIRBEAU-BAUDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155)
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software Engineering student
 
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> France 
 
-[![Linkedin: Mel-MB](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaianebraga/)
+
 
 Logical problems junkie (learning through algorithms at codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro))
 
