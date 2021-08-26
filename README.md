@@ -3,16 +3,13 @@
 </h1>
 <img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
 
-[![Linkedin: Mélanie MIRBEAU-BAUDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155)
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software Engineering student &nbsp; | &nbsp; <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> France &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155" title="Linkedin: Mélanie MIRBEAU-BAUDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" align="center"/></a>
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software Engineering student
+Brain teasers and construction games addict, I am learning through algorithms on codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro).
 
-<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> France 
-
-
-
-Logical problems junkie 
-(learning through algorithms on codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro))
+- 👩‍🏫 I'm learning about back-end and dev-ops but you can ask me about OOP and front-end technologies.
+- 💻 Currently working on mini Java games.
+- 📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.
 
 
 
@@ -23,7 +20,7 @@ Logical problems junkie
       String position;
       int age;
       Set <Technologies> hardSkillsSet;
-      Set <String> softSkillsSet;
+      Set <Qualities> softSkillsSet;
       Map <Technologies> currentlyLearning;
       
 
@@ -42,7 +39,7 @@ Logical problems junkie
         this.position = "Software engineering student **looking for apprenticeship**"
         this.age = Year.now().getValue() - 1997;
         this.hardSkillsSet = new HashSet<>(Arrays.asList(HTML, CSS, SASS, PHP, MYSQL, JAVASCRIPT));
-        this.softSkillsSet = new HashSet<>(Arrays.asList("curiosity", "dynamism", "autonomy", "problem solving"));
+        this.softSkillsSet = new HashSet<>(Arrays.asList(curiosity, dynamism, autonomy, problemSolving));
       }
 
       public void startLearning(Techonolgies tech, String purpose){
