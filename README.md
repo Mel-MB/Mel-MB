@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there , I'm Mélanie MIRBEAU-BAUDIN
 </h1>
-<img align='right' src="https://github.com/Mel-MB/Mel-MB/img/working.gif" width="230">
+<img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
 
 [![Linkedin: Mélanie MIRBEAU-BAUDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155)
 
