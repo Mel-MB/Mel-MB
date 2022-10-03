@@ -9,7 +9,7 @@ Brain teasers and strategic board games addict, I am learning through algorithms
 
 
 # My most used technologies
- ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Mel-MB&show_icons=true
+ ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Mel-MB&show_icons=true  
 
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)**
