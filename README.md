@@ -2,7 +2,6 @@
   :wave: Hi there , I'm Mélanie MIRBEAU-BAUDIN
 </h1>
 
-<div height='30%' justify='center'>
 
   <img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
 
@@ -12,9 +11,8 @@
 
   📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.
 
-</div>
 
-
+# My most used technologies
  ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Mel-MB&show_icons=true
 
 
