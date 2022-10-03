@@ -7,9 +7,9 @@
 Brain teasers and strategic board games addict, I am learning through algorithms on codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro).  
 📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.  
 
+<br><br><br><br><br>
 
-# My most used technologies
- ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Mel-MB&show_icons=true  
+ ! [My most used languages] https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-MB&hide=html,css,hack
 
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)**
