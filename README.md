@@ -1,5 +1,5 @@
 <h1>
-  👋 Hi there , I'm Mélanie MIRBEAU-BAUDIN
+  :wave: Hi there , I'm Mélanie MIRBEAU-BAUDIN
 </h1>
 <img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
 
@@ -10,7 +10,7 @@ Brain teasers and strategic board games addict, I am learning through algorithms
 📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.
 
 
-### More about me
+! [Statistiques des languages utilisés] https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-MB&hide=html,css,hack&theme=blue-green
 
-<!--[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-MB&hide=html,css,hack)](https://github.com/anuraghazra/github-readme-stats)-->
+
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)**
