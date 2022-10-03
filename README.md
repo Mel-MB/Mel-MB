@@ -1,16 +1,18 @@
-<h1>
-  :wave: Hi there , I'm Mélanie MIRBEAU-BAUDIN
-</h1>
+# :wave: Hi there , I'm Mélanie MIRBEAU-BAUDIN
 
+<figure>
+  <img src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif"
+       alt="readhead girl coding"
+       align='right' width='230'>
 
-  <img align='right' src="https://github.com/Mel-MB/Mel-MB/blob/main/img/working.gif" width="230">
+  <figcaption>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software craftmanship student &nbsp; | &nbsp; <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> France &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155" title="Linkedin: Mélanie MIRBEAU-BAUDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" align="center"/></a>
 
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Software craftmanship student &nbsp; | &nbsp; <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> France &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/mélanie-mirbeau-baudin-bbb906155" title="Linkedin: Mélanie MIRBEAU-BAUDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" align="center"/></a>
+    Brain teasers and strategic board games addict, I am learning through algorithms on codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro).
 
-  Brain teasers and strategic board games addict, I am learning through algorithms on codewars ![codewars](https://www.codewars.com/users/Mel-MB/badges/micro).
-
-  📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.
-
+    📬 Don't hesitate to **contact me for any ==open source project contributuion==** I'd be happy to help.
+  </figcaption>
+</figure>
 
 # My most used technologies
  ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Mel-MB&show_icons=true
