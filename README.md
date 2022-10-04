@@ -9,7 +9,7 @@ Brain teasers and strategic board games addict, I am learning through algorithms
 📬 Don't hesitate to **contact me for any open source project contributuion** I'd be happy to help.  
 <br><br>
 
- ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-MB&hide=html,css,hack)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-MB&hide=html,css,hack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)**
